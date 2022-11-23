@@ -6,8 +6,7 @@ This repo contains the Jupyter Notebook ``solving_linear_equations.ipynb`` that 
 
 # Citation
 
-XXXX pending DOI XXXXX
-
+[![DOI](https://zenodo.org/badge/330752538.svg)](https://zenodo.org/badge/latestdoi/330752538)
 
 # Distribution
 
